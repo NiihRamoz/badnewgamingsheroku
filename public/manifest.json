@@ -1,7 +1,7 @@
 {
-  "name": "AprendendoPWA",
-  "short_name": "AprendPWA",
-  "description": "WEB APP para aprender PWA (Disciplina PAMII).",
+  "name": "BadGamingsPRO",
+  "short_name": "BadGamingsPRO",
+  "description": "Esse site foi especificamente feito para você se divertir! Agora Seja Felixx ;)",
   "display": "fullscreen",
   "start_url":"index.html",    
   "scope": "/",
